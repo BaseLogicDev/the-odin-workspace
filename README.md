@@ -11,5 +11,5 @@
 * Initialized GitHub repository and local workspace with the help of Gemini.
 * Configured Git authentication on macOS with the use of classic tokens.
 * Learned terminal navigation commands: `cd`, `ls`, `mkdir`, `touch`.
-* successfully created first repo 'the-odin-workspace' for 'The Odin Project' Curriculum.
+* Successfully created first repo 'the-odin-workspace' for 'The Odin Project' Curriculum.
 * Successfully pushed first commit to the cloud, the 'README.md' file.

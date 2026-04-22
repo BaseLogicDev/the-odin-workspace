@@ -15,7 +15,7 @@
 * Successfully pushed first commit to the cloud, the 'README.md' file.
 
 ### 2026-04-23
-* Started the TOP's Foundations Course
-* Started the Introduction Module
-* Finished the following lessons with their assignments: 'How This Course Will Work', 'Introduction to Web Development', 'Motivation And Mindset'
-* Joined the TOP Discord.
+* Started TOP's Foundations Course.
+* Started the Introduction Module.
+* Finished the following lessons with their assignments: 'How This Course Will Work', 'Introduction to Web Development', 'Motivation And Mindset'.
+* Joined TOP's Discord server.

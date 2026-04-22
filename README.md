@@ -19,3 +19,4 @@
 * Started the Introduction Module.
 * Finished the following lessons with their assignments: 'How This Course Will Work', 'Introduction to Web Development', 'Motivation And Mindset'.
 * Joined TOP's Discord server.
+* Attempted fixing multiple issues that happened in my repository with the help of Gemini.

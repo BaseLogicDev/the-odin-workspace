@@ -6,16 +6,23 @@
 #### **Goal:** Complete 'The Odin Project' Curriculum 
 ---
 ## Daily Log
-### 2026-04-22
+### 2026-04-21
 * Initialized GitHub repository and local workspace with the help of Gemini.
 * Configured Git authentication on macOS with the use of classic tokens.
 * Learned terminal navigation commands: `cd`, `ls`, `mkdir`, `touch`.
 * Successfully created first repo 'the-odin-workspace' for 'The Odin Project' Curriculum.
 * Successfully pushed first commit to the cloud, the 'README.md' file.
 
-### 2026-04-23
+### 2026-04-22
 * Started TOP's Foundations Course.
 * Started the Introduction Module.
 * Finished the following lessons with their assignments: 'How This Course Will Work', 'Introduction to Web Development', 'Motivation And Mindset'.
 * Joined TOP's Discord server.
 * Attempted to fix multiple issues that happened in my repository with the help of Gemini, somewhat successful.
+
+### 2026-04-23
+* Finished TOP's Introduction Module in the Foundations Course.
+* Started the Prerequisites module.
+* Finished the following lessons with their assignments: 'How Does The Web Work?', 'Installations' (Skipped because of being on MacOS already), 'Text Editors'
+* Lesson currently in progress: Command Line Basics (Completed till the 'Navigating Files and Directories' page of the SWCarpentry's 'The Unix Shell Course'.
+* Fixed mistake related to mentions of date in my README.md file in Daily Log.

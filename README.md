@@ -26,3 +26,12 @@
 * Finished the following lessons with their assignments: 'How Does The Web Work?', 'Installations' (Skipped because of being on MacOS already), 'Text Editors'
 * Lesson currently in progress: Command Line Basics (Completed till the 'Navigating Files and Directories' page of the SWCarpentry's 'The Unix Shell Course'.
 * Fixed mistake related to mentions of date in my README.md file in Daily Log.
+
+### 2026-04-24
+* Finished the TOP's Prerequisites module.
+* Started the Git Basics module.
+* Finished the following lessons with their assignments: 'Command Line Basics', 'Setting up Git', 'Introduction to Git'
+* Lagged behind in progress today due to not functioning at full capacity, Reason: Lack of sleep
+* Primary Objectives for tomorrow: 
+  - Finish Git Basics module.
+  - Start HTML Foundations module and partially complete the module till the 'HTML Boilerplate' Lesson.

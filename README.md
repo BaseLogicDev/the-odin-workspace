@@ -40,3 +40,16 @@
 
 Hello Odin!
 (Git Basics)
+
+* Finished Git Basics module.
+* Started HTML Foundations module.
+* Completed the following lessons with their assignments: 'Introduction to HTML and CSS', 'Elements and Tags'
+* Partially completed HTML Boilerplate, further learning remaining.
+
+### 2026-04-26
+* Forgot to update the daily log yesterday.
+* Finished the following lessons with their assignments: 'HTML Boilerplate', 'Working with Text', 'Lists'
+* Added the assignment files 'index.html' and 'lists.html' created for the following lessons: 'Working with Text', 'Lists' to the repository.
+* Primary Objectives for tomorrow: 
+  - Finish the remaining lessons of the HTML Foundations module.
+  - Start working on the Project: Recipes.

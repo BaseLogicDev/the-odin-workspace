@@ -53,3 +53,7 @@ Hello Odin!
 * Primary Objectives for tomorrow: 
   - Finish the remaining lessons of the HTML Foundations module.
   - Start working on the Project: Recipes.
+### 2026-04-27
+* Finished the HTML Foundations module.
+* Started working on Project: Recipes
+* Lagged behind in progress today due to not being able to work my usual hours, Reason: Surprise Birthday Party

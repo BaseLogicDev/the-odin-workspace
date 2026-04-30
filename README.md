@@ -62,4 +62,11 @@ Hello Odin!
 * Project: Recipes is in progress, expected time of completion: 30th April 2026
 
 ### 2026-04-29
-* Project: Recipes finished and submitted.
+* Project: Recipes finished and submitted: https://baselogicdev.github.io/odin-recipes/)
+
+### 2026-04-30
+* Started CSS Foundations Module
+* Finished the following lessons with their assigments: 'Intro to CSS'
+* Primary Objectives for tomorrow: 
+- Finish lesson 'The Cascade'
+  
